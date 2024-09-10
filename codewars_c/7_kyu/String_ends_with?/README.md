@@ -8,7 +8,6 @@ Completa la solución para que devuelva `true` si el primer argumento (cadena) t
 solution('abc', 'bc') // returns true
 solution('abc', 'd')  // returns false
 ```
-TEMAS
-`Strings` `Fundamentals`
+### TEMAS `Strings` `Fundamentals`
 
 <a href="https://www.codewars.com/users/HormiDev"><img src="https://www.codewars.com/users/HormiDev/badges/micro" alt="HormiDev codewars stats"></a>
