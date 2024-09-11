@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 {
 	if (argc != 2)
 	{
-		printf("Se requieren 2 argumentos.\n");
+		printf("Se requiere 1 argumento.\n");
 		return 1;
 	}
 
