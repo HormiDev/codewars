@@ -13,5 +13,6 @@
 |[**Sum of odd numbers**](https://github.com/HormiDev/codewars/tree/main/codewars_c/7_kyu/Sum_of_odd_numbers) | ***7 kyu*** |
 |[**Function 1 - hello world**](https://github.com/HormiDev/codewars/tree/main/codewars_c/8_kyu/Function_1_hello_world) | ***8 kyu*** |
 |[**Valid Braces**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Valid_Braces) | ***6 kyu*** |
+|[**School Paperwork**](https://github.com/HormiDev/codewars/tree/main/codewars_c/8_kyu/School_Paperwork) | ***8 kyu*** |
 
 <a href="https://www.codewars.com/"><img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="logo codewars"></a>
