@@ -21,5 +21,9 @@
 | Katas | Rank |
 |-|-|
 |[**Reversed Strings**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/Reversed_Strings) | ***8 kyu*** |
+|[**Convert boolean values to strings**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/Convert_boolean_values_to_strings) | ***8 kyu*** |
+|[**You Can't Code Under Pressure #1**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/You_Can't_Code_Under_Pressure) | ***8 kyu*** |
+|[**Remove exclamation marks**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/Remove_exclamation_marks) | ***8 kyu*** |
+
 
 <a href="https://www.codewars.com/"><img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="logo codewars"></a>
