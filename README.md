@@ -17,4 +17,9 @@
 |[**Take a Ten Minutes Walk**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Take_a_Ten_Minutes_Walk) | ***6 kyu*** |
 |[**Which are in?**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Which_are_in%3F) | ***6 kyu*** |
 
+### Python language
+| Katas | Rank |
+|-|-|
+|[**Reversed Strings**](https://github.com/HormiDev/codewars/tree/main/codewars_c/8_kyu/Reversed_Strings) | ***8 kyu*** |
+
 <a href="https://www.codewars.com/"><img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="logo codewars"></a>
