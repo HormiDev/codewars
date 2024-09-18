@@ -20,6 +20,6 @@
 ### Python language
 | Katas | Rank |
 |-|-|
-|[**Reversed Strings**](https://github.com/HormiDev/codewars/tree/main/codewars_c/8_kyu/Reversed_Strings) | ***8 kyu*** |
+|[**Reversed Strings**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/Reversed_Strings) | ***8 kyu*** |
 
 <a href="https://www.codewars.com/"><img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="logo codewars"></a>
