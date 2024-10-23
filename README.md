@@ -17,6 +17,7 @@
 |[**Take a Ten Minutes Walk**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Take_a_Ten_Minutes_Walk) | ***6 kyu*** |
 |[**Which are in?**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Which_are_in%3F) | ***6 kyu*** |
 |[**Roman Numerals Decoder**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Roman_Numerals_Decoder) | ***6 kyu*** |
+|[**Convert string to camel case**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Convert_string_to_camel_case) | ***6 kyu*** |
 
 ### Python language
 | Katas | Rank |
