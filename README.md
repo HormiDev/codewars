@@ -19,6 +19,7 @@
 |[**Roman Numerals Decoder**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Roman_Numerals_Decoder) | ***6 kyu*** |
 |[**Convert string to camel case**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Convert_string_to_camel_case) | ***6 kyu*** |
 |[**Multiplication table**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Multiplication_table) | ***6 kyu*** |
+|[**Backspaces in string**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Backspaces_in_string) | ***6 kyu*** |
 
 ### Python language
 | Katas | Rank |
