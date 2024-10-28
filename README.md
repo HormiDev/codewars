@@ -20,6 +20,7 @@
 |[**Convert string to camel case**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Convert_string_to_camel_case) | ***6 kyu*** |
 |[**Multiplication table**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Multiplication_table) | ***6 kyu*** |
 |[**Backspaces in string**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Backspaces_in_string) | ***6 kyu*** |
+|[**Moving Zeros To The End**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Moving_Zeros_To_The_End) | ***5 kyu*** |
 
 ### Python language
 | Katas | Rank |
