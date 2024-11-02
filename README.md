@@ -22,6 +22,7 @@
 |[**Backspaces in string**](https://github.com/HormiDev/codewars/tree/main/codewars_c/6_kyu/Backspaces_in_string) | ***6 kyu*** |
 |[**Moving Zeros To The End**](https://github.com/HormiDev/codewars/tree/main/codewars_c/5_kyu/Moving_Zeros_To_The_End) | ***5 kyu*** |
 |[**Count IP Addresses**](https://github.com/HormiDev/codewars/tree/main/codewars_c/5_kyu/Count_IP_Addresses) | ***5 kyu*** |
+|[**Range Extraction**](https://github.com/HormiDev/codewars/tree/main/codewars_c/4_kyu/Range_Extraction) | ***4 kyu*** |
 
 ### Python language
 | Katas | Rank |
