@@ -24,7 +24,8 @@
 |[**Count IP Addresses**](https://github.com/HormiDev/codewars/tree/main/codewars_c/5_kyu/Count_IP_Addresses) | ***5 kyu*** |
 |[**Range Extraction**](https://github.com/HormiDev/codewars/tree/main/codewars_c/4_kyu/Range_Extraction) | ***4 kyu*** |
 |[**Adding Big Numbers**](https://github.com/HormiDev/codewars/tree/main/codewars_c/4_kyu/Adding_Big_Numbers) | ***4 kyu*** |
-Adding Big Numbers
+|[**Digital cypher**](https://github.com/HormiDev/codewars/tree/main/codewars_c/7_kyu/Digital_cypher) | ***7 kyu*** |
+
 ### Python language
 | Katas | Rank |
 |-|-|
