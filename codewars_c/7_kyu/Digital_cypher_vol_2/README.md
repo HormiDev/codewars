@@ -27,15 +27,19 @@ Luego, a cada dígito obtenido, le sumamos los dígitos consecutivos de la clave
   --------------------------------
   14 10 22 29  6 27 19 18  6  12 8
 ```
+## Tarea
+Escriba una función que acepte una matriz de números enteros codey un keynúmero. Como resultado, debería devolver una cadena que contenga un mensaje decodificado de code.
+
 ## Entrada / Salida
-La strcadena de entrada consta únicamente de caracteres en minúscula.
-El keynúmero de entrada es un entero positivo.
+Es codeuna matriz de números enteros positivos.
+La keyentrada es un número entero no negativo.
 
 ## Ejemplo
 ```c
-Encode("scout",1939);  ==>  [ 20, 12, 18, 30, 21]
-Encode("masterpiece",1939);  ==>  [ 14, 10, 22, 29, 6, 27, 19, 18, 6, 12, 8]
+decode([ 20, 12, 18, 30, 21],1939);  ==> "scout"
+decode([ 14, 10, 22, 29, 6, 27, 19, 18, 6, 12, 8],1939);  ==>  "masterpiece"
 ```
+
 ### TEMAS `FUNDAMENTALS` `CIPHERSCRYP` `TOGRAPHY`
 
 <a href="https://www.codewars.com/users/HormiDev"><img src="https://www.codewars.com/users/HormiDev/badges/micro" alt="HormiDev codewars stats"></a>

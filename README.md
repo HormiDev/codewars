@@ -26,6 +26,7 @@
 |[**Adding Big Numbers**](https://github.com/HormiDev/codewars/tree/main/codewars_c/4_kyu/Adding_Big_Numbers) | ***4 kyu*** |
 |[**Digital cypher**](https://github.com/HormiDev/codewars/tree/main/codewars_c/7_kyu/Digital_cypher) | ***7 kyu*** |
 |[**Snail**](https://github.com/HormiDev/codewars/tree/main/codewars_c/4_kyu/Snail) | ***4 kyu*** |
+|[**Digital cypher vol 2**](https://github.com/HormiDev/codewars/tree/main/codewars_c/7_kyu/Digital_cypher_vol_2) | ***7 kyu*** |
 
 ### Python language
 | Katas | Rank |
