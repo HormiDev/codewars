@@ -27,6 +27,8 @@
 |[**Digital cypher**](https://github.com/HormiDev/codewars/tree/main/codewars_c/7_kyu/Digital_cypher) | ***7 kyu*** |
 |[**Snail**](https://github.com/HormiDev/codewars/tree/main/codewars_c/4_kyu/Snail) | ***4 kyu*** |
 |[**Digital cypher vol 2**](https://github.com/HormiDev/codewars/tree/main/codewars_c/7_kyu/Digital_cypher_vol_2) | ***7 kyu*** |
+|[**Prime Streaming (PG-13)**](https://github.com/HormiDev/codewars/tree/main/codewars_c/3_kyu/Prime_Streaming_PG-13) | ***3 kyu*** |
+
 
 ### Python language
 | Katas | Rank |
