@@ -38,5 +38,9 @@
 |[**You Can't Code Under Pressure #1**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/You_Can't_Code_Under_Pressure) | ***8 kyu*** |
 |[**Remove exclamation marks**](https://github.com/HormiDev/codewars/tree/main/codewars_python/8_kyu/Remove_exclamation_marks) | ***8 kyu*** |
 
+### C++ language
+| Katas | Rank |
+|-|-|
+|[**Count by X**](codewars_c++/8_kyu/Count_by_X/) | ***8 kyu*** |
 
 <a href="https://www.codewars.com/"><img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="logo codewars"></a>
