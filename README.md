@@ -42,5 +42,7 @@
 | Katas | Rank |
 |-|-|
 |[**Count by X**](codewars_c++/8_kyu/Count_by_X/) | ***8 kyu*** |
+|[**Remove String Spaces**](codewars_c++/8_kyu/Remove_String_Spaces/) | ***8 kyu*** |
+
 
 <a href="https://www.codewars.com/"><img src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" alt="logo codewars"></a>
